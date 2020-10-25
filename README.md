@@ -1,6 +1,6 @@
 # ADM - Homework 01
 
-In this repository you can find my solutions for the Python Hackerrank Challenges + some of the Problem Solving Challenges.
+In this repository you can find my solutions for Problem 1 and 2 of Homework 1.
 
 In particular:
 
